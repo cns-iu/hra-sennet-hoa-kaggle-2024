@@ -1,0 +1,1 @@
+python src/2d-valid.py --model_name Unet --backbone tu-maxvit_large_tf_512 --model_path /home/v-honsong/workspace/sennet/result/UNetmaxvitlarge512_900onwards/valonK3_best_loss.pt --valid_batch_size 2  --min_thr 0.01 --max_thr 0.5 --interval 0.01
