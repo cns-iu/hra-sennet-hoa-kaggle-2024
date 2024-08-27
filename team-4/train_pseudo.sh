@@ -1,0 +1,2 @@
+python -m src.train --config-name=train_pseudo.yaml data.fold=-1 data.in_channels=1 paths.data_dir=$(python parse_settings_json.py RAW_DATA_DIR) paths.log_dir=$(python parse_settings_json.py LOGS_DIR) paths.model_dir=$(python parse_settings_json.py MODEL_CHECKPOINT_DIR) 
+python -m src.train --config-name=train_pseudo.yaml data.fold=-1 data.in_channels=3 paths.data_dir=$(python parse_settings_json.py RAW_DATA_DIR) paths.log_dir=$(python parse_settings_json.py LOGS_DIR) paths.model_dir=$(python parse_settings_json.py MODEL_CHECKPOINT_DIR) 
