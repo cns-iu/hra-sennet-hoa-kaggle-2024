@@ -1,8 +1,0 @@
-{
-    "RAW_DATA_DIR": "./data/blood-vessel-segmentation",
-    "TRAIN_DATA_CLEAN_PATH": "./data/blood-vessel-segmentation/train.csv",
-    "TEST_DATA_CLEAN_PATH": "./data/blood-vessel-segmentation/test.csv",
-    "MODEL_CHECKPOINT_DIR": "./logs",
-    "LOGS_DIR": "./logs",
-    "SUBMISSION_DIR": "./submissions"
-}
