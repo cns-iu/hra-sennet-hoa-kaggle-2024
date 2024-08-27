@@ -1,2 +1,0 @@
-python -m src.train --config-name=train_pseudo_v2.yaml data.fold=0 trainer.max_epochs=60 paths.data_dir=$(python parse_settings_json.py RAW_DATA_DIR) paths.log_dir=$(python parse_settings_json.py LOGS_DIR) paths.model_dir=$(python parse_settings_json.py MODEL_CHECKPOINT_DIR) 
-python -m src.train --config-name=train_pseudo_v2.yaml data.fold=1 trainer.max_epochs=60 paths.data_dir=$(python parse_settings_json.py RAW_DATA_DIR) paths.log_dir=$(python parse_settings_json.py LOGS_DIR) paths.model_dir=$(python parse_settings_json.py MODEL_CHECKPOINT_DIR) 

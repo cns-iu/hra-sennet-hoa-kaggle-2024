@@ -1,8 +1,0 @@
-{
-    "RAW_DATA_DIR": "./data/blood-vessel-segmentation",
-    "TRAIN_DATA_CLEAN_PATH": "./data/blood-vessel-segmentation/train.csv",
-    "TEST_DATA_CLEAN_PATH": "./data/blood-vessel-segmentation/test.csv",
-    "MODEL_CHECKPOINT_DIR": "./logs/train/runs/UnetPlusPlus_tu-tf_efficientnet_b5_size_3_512_bs32_hard/0/checkpoints",
-    "LOGS_DIR": "./logs",
-    "SUBMISSION_DIR": "./submissions"
-}

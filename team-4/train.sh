@@ -1,5 +1,0 @@
-python -m src.train data.fold=0 model.net.encoder_name=tu-tf_efficientnet_b5 paths.data_dir=$(python parse_settings_json.py RAW_DATA_DIR) paths.log_dir=$(python parse_settings_json.py LOGS_DIR) paths.model_dir=$(python parse_settings_json.py MODEL_CHECKPOINT_DIR) 
-#python -m src.train data.fold=1 model.net.encoder_name=tu-tf_efficientnet_b5 paths.data_dir=$(python parse_settings_json.py RAW_DATA_DIR) paths.log_dir=$(python parse_settings_json.py LOGS_DIR) paths.model_dir=$(python parse_settings_json.py MODEL_CHECKPOINT_DIR) 
-
-#python -m src.train data.fold=0 model.net.encoder_name=tu-tf_efficientnet_b6 paths.data_dir=$(python parse_settings_json.py RAW_DATA_DIR) paths.log_dir=$(python parse_settings_json.py LOGS_DIR) paths.model_dir=$(python parse_settings_json.py MODEL_CHECKPOINT_DIR) 
-#python -m src.train data.fold=1 model.net.encoder_name=tu-tf_efficientnet_b6 paths.data_dir=$(python parse_settings_json.py RAW_DATA_DIR) paths.log_dir=$(python parse_settings_json.py LOGS_DIR) paths.model_dir=$(python parse_settings_json.py MODEL_CHECKPOINT_DIR) 
