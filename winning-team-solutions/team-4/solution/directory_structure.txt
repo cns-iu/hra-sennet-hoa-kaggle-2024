@@ -78,6 +78,4 @@
 ./data/blood-vessel-segmentation/test/kidney_5/images
 ./data/blood-vessel-segmentation/test/kidney_6
 ./data/blood-vessel-segmentation/test/kidney_6/images
-./logs
-./logs/train
 ./logs/train/runs
