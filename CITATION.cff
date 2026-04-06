@@ -1,0 +1,74 @@
+cff-version: 1.2.0
+message: "If you use this software or data, please cite it using the metadata below."
+authors:
+- family-names: Jain
+  given-names: Yashvardhan
+- family-names: Walsh
+  given-names: Claire L.
+- family-names: Yagis
+  given-names: Ekin
+- family-names: Aslani
+  given-names: Shahab
+- family-names: Nandanwar
+  given-names: Sonal
+- family-names: Zhou
+  given-names: Yang
+- family-names: Ha
+  given-names: Juhyung
+- family-names: Gustilo
+  given-names: Katherine S.
+- family-names: Brunet
+  given-names: Joseph
+- family-names: Rahmani
+  given-names: Shahrokh
+- family-names: Tafforeau
+  given-names: Paul
+- family-names: Bellier
+  given-names: Alexandre
+- family-names: Weber
+  given-names: Griffin M.
+- family-names: Lee
+  given-names: Peter D.
+- family-names: Börner
+  given-names: Katy
+title: "Vasculature segmentation in 3D hierarchical phase-contrast tomography images of human kidneys"
+doi: 10.1101/2024.08.25.609595
+date-released: 2024-08-26
+url: "https://www.biorxiv.org/content/10.1101/2024.08.25.609595v1"
+preferred-citation:
+  type: article
+  authors:
+  - family-names: Jain
+    given-names: Yashvardhan
+  - family-names: Walsh
+    given-names: Claire L.
+  - family-names: Yagis
+    given-names: Ekin
+  - family-names: Aslani
+    given-names: Shahab
+  - family-names: Nandanwar
+    given-names: Sonal
+  - family-names: Zhou
+    given-names: Yang
+  - family-names: Ha
+    given-names: Juhyung
+  - family-names: Gustilo
+    given-names: Katherine S.
+  - family-names: Brunet
+    given-names: Joseph
+  - family-names: Rahmani
+    given-names: Shahrokh
+  - family-names: Tafforeau
+    given-names: Paul
+  - family-names: Bellier
+    given-names: Alexandre
+  - family-names: Weber
+    given-names: Griffin M.
+  - family-names: Lee
+    given-names: Peter D.
+  - family-names: Börner
+    given-names: Katy
+  doi: "10.1101/2024.08.25.609595"
+  title: "Vasculature segmentation in 3D hierarchical phase-contrast tomography images of human kidneys"
+  journal: "bioRxiv"
+  year: 2024
