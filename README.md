@@ -30,3 +30,7 @@ Efficient algorithms are needed to segment vasculature in new 3D medical imaging
 ### Link to competition website: https://www.kaggle.com/competitions/blood-vessel-segmentation 
 
 Link to Skeleton Analysis files: https://github.com/HiPCTProject/Kaggle_skeleton_analyses 
+
+All data is available on Zenodo: https://doi.org/10.5281/zenodo.19685382
+
+A snapshot of this repo is also available on Zenodo: https://doi.org/10.5281/zenodo.19685078
