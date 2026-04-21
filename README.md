@@ -31,6 +31,6 @@ Efficient algorithms are needed to segment vasculature in new 3D medical imaging
 
 Link to Skeleton Analysis files: https://github.com/HiPCTProject/Kaggle_skeleton_analyses 
 
-All data is available on Zenodo: https://doi.org/10.5281/zenodo.19685382
+All data is available on Zenodo: https://doi.org/10.5281/zenodo.19685381
 
 A snapshot of this repo is also available on Zenodo: https://doi.org/10.5281/zenodo.19685078
